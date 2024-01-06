@@ -4,15 +4,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-nobre-7063aa23a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIWAcTjvYRYynyjk65UxbVw%3D%3D)
 
 <div align='center'>
- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=TiagoDesc&theme=github-dark-dimmed&hide_border=true">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=TiagoDesc&theme=github-dark-dimmed&hide_border=true">
 </div> <br>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoDesc&show_icons=true&theme=dracula">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TiagoDesc&show_icons=true&theme=dracula">
 </div>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDesc&layout=compact&theme=dracula">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDesc&layout=compact&theme=dracula">
 </div>
 
 ## Everyday technologies
