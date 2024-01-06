@@ -3,7 +3,6 @@
 ### Hello, I'm Tiago Nobre
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiago.desc)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-nobre-7063aa23a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIWAcTjvYRYynyjk65UxbVw%3D%3D)
 
 ![Tiago Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoDesc&show_icons=true&theme=dracula)
