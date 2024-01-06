@@ -1,6 +1,6 @@
 
 
-### Hello, I'm Tiago Nobre
+### Hello, i'm Tiago Nobre
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiago.desc)
 
@@ -8,10 +8,15 @@
 
 ![Tiago Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoDesc&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDesc&layout=compact&theme=dracula)
+
 ## Everyday technologies
 
 <div style="display: inline_block"><br/>
 <img align ="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align ="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align ="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
+</div><br/>
+
+Passionate about technology, books and boxing. 
+
