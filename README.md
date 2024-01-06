@@ -9,7 +9,7 @@
  <img heigh="160em" src="https://github-readme-streak-stats.herokuapp.com?user=TiagoDesc&theme=vue-dark&hided&hide_border=true&hide_border=true">
 </div> <br>
 
-![Tiago Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoDesc&show_icons=true&theme=dracula) 
+![Tiago Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoDesc&show_icons=true&theme=vue-dark) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDesc&layout=compact&theme=dracula)
 
