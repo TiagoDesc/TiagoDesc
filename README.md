@@ -18,6 +18,6 @@
 <div style = "display: inline_block" ><br>
   <img src="https://devicons.dev.br/icons?icon=Java,HTML,CSS,JavaScript,Tailwind&size=60&theme=dark&perline=15">
 </div>
-
+<br>
 Passionate about technology, books and boxing. 
 
