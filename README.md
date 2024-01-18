@@ -1,13 +1,15 @@
 
-
-### Hello, I'm Tiago Nobre!
+<div align = 'center'
+ 
+### Hello, I'm Tiago Nobre! <br>
+</div>
+<div align='center'>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiago.desc)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-nobre-7063aa23a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIWAcTjvYRYynyjk65UxbVw%3D%3D)
 
-<div align='left'>
  <img heigh="160em" src="https://github-readme-streak-stats.herokuapp.com?user=TiagoDesc&theme=dracula&hided&hide_border=true&hide_border=true">
-</div> <br>
+
 
 ![Tiago Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoDesc&show_icons=true&theme=dracula) 
 
@@ -20,4 +22,4 @@
 </div>
 <br>
 Passionate about technology, books and boxing. 
-
+</div> <br>
