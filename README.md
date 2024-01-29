@@ -11,7 +11,7 @@
 
 ![Tiago Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoDesc&show_icons=true&theme=dracula) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDesc&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDesc&layout=compact&theme=dark)
 
 ## Everyday technologies:
 
