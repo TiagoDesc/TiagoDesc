@@ -15,7 +15,7 @@
 ## Everyday technologies:
 
 <div style = "display: inline_block" ><br>
- <img align="center" alt="Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ (https://skillicons.dev/icons?i=js,html,css,wasm)(https://skillicons.dev)
   
 </div>
 <br>
