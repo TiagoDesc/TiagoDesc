@@ -15,7 +15,7 @@
 ## Everyday technologies:
 
 <div style = "display: inline_block" ><br>
-  <img src="https://devicons.dev.br/icons?icon=Java,HTML,CSS,JavaScript,CS,Tailwind&size=60&theme=dark&perline=15">
+ <img align="center" alt="Mysql" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
 </div>
 <br>
 Passionate about technology, books and boxing. 
