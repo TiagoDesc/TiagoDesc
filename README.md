@@ -15,7 +15,7 @@
 ## Everyday technologies:
 
 <div style = "display: inline_block" ><br>
- (https://skillicons.dev/icons?i=js,html,css,wasm)(https://skillicons.dev)
+ https://skillicons.dev/icons?i=js,html,css,wasm https://skillicons.dev
   
 </div>
 <br>
