@@ -15,7 +15,9 @@
 ## Everyday technologies:
 
 <div style = "display: inline_block" ><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
   
 </div>
 <br>
